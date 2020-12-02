@@ -1,0 +1,13 @@
+P:\Digital\VS\Declan Wood\GYM people\GYM people\bin\Debug\netcoreapp3.1\GYM people.exe
+P:\Digital\VS\Declan Wood\GYM people\GYM people\bin\Debug\netcoreapp3.1\GYM people.deps.json
+P:\Digital\VS\Declan Wood\GYM people\GYM people\bin\Debug\netcoreapp3.1\GYM people.runtimeconfig.json
+P:\Digital\VS\Declan Wood\GYM people\GYM people\bin\Debug\netcoreapp3.1\GYM people.runtimeconfig.dev.json
+P:\Digital\VS\Declan Wood\GYM people\GYM people\bin\Debug\netcoreapp3.1\GYM people.dll
+P:\Digital\VS\Declan Wood\GYM people\GYM people\bin\Debug\netcoreapp3.1\GYM people.pdb
+P:\Digital\VS\Declan Wood\GYM people\GYM people\obj\Debug\netcoreapp3.1\GYM people.csprojAssemblyReference.cache
+P:\Digital\VS\Declan Wood\GYM people\GYM people\obj\Debug\netcoreapp3.1\GYM people.AssemblyInfoInputs.cache
+P:\Digital\VS\Declan Wood\GYM people\GYM people\obj\Debug\netcoreapp3.1\GYM people.AssemblyInfo.cs
+P:\Digital\VS\Declan Wood\GYM people\GYM people\obj\Debug\netcoreapp3.1\GYM people.csproj.CoreCompileInputs.cache
+P:\Digital\VS\Declan Wood\GYM people\GYM people\obj\Debug\netcoreapp3.1\GYM people.dll
+P:\Digital\VS\Declan Wood\GYM people\GYM people\obj\Debug\netcoreapp3.1\GYM people.pdb
+P:\Digital\VS\Declan Wood\GYM people\GYM people\obj\Debug\netcoreapp3.1\GYM people.genruntimeconfig.cache
